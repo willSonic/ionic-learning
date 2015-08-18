@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example1/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example2/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example3/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/cordova/node_modules/cordova-lib/src/plugman/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/cordova/node_modules/cordova-lib/templates/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/grunt-contrib-jshint/node_modules/jshint/src/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/ionic/node_modules/ionic-app-lib/node_modules/ionic-cordova-lib/src/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/ionic/node_modules/ionic-app-lib/node_modules/ionic-cordova-lib/src/plugman/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/ionic/node_modules/ionic-app-lib/node_modules/ionic-cordova-lib/templates/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/platforms" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
