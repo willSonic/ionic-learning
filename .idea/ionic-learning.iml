@@ -16,6 +16,8 @@
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example5/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example6/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter4/example13/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter4/example15/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter5/example16/platforms" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
