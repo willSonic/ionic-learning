@@ -42,7 +42,7 @@ angular.module('starter', ['ionic'])
 
    $scope.validate = function() {
         // some other validations...
-        $state.go('app');
+        $state.go('page2');
     }
 
 })

@@ -12,12 +12,18 @@
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/ionic/node_modules/ionic-app-lib/node_modules/ionic-cordova-lib/src/plugman/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/node_modules/ionic/node_modules/ionic-app-lib/node_modules/ionic-cordova-lib/templates/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter2/example4/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example10/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example11/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example5/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example6/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example7/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example8/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter3/example9/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter4/example13/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter4/example15/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter5/example16/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter5/example17/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/ionicApps/chapter5/example18/platforms" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
